@@ -6,7 +6,7 @@
 	- Like musicians and producers share their favorite VSTs, video editors should have a toolbox of scripts, that they love to use and share.
   - Video editors should profit of custom scripting culture! 🎉
 
-- **💥 I want to uncover incredible linguistic findings in small languages. 💥**
+- **💥 I want to uncover awesome linguistic findings in small languages. 💥**
 	- Incredible knowledge is hidden beyond the linguistics of the few common languages most research is focused on.
   - I want to unearth this neglected information using computational methods! 🎉
 
